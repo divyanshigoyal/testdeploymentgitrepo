@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "366414dd-6fd4-4014-9370-19a6801f6a03": {
+      "ProjectGuid": "366414dd-6fd4-4014-9370-19a6801f6a03",
+      "DisplayName": "API",
+      "ColorIndex": 0
+    },
+    "ec95cac4-b390-4da5-91a7-f5761e4bb2a5": {
+      "ProjectGuid": "ec95cac4-b390-4da5-91a7-f5761e4bb2a5",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
